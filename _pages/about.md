@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yuan Guo.
+Hi👋🏻! I'm Yuan Guo（郭源）.
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+<div style='display: none'>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -32,6 +33,7 @@ Hi! I'm Yuan Guo.
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+</div>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -43,7 +45,7 @@ Hi! I'm Yuan Guo.
 # 🎖 Honors and Awards
 - *2024.05* Fan‑Xuji Scholarship (15 undergrads in SJTU with excellent innovation, leadership and academic performance)
 - *2023.12* National Scholarship (top 0.2% college students in People's Republic of China)
-- *2023&2024* SJTU Academic Scholarship
+- *2023,2024* SJTU Academic Scholarship
   
 # 📖 Educations
 - *2022.08 - 2026.06 (Expected)*, Yongqiang Honor Class of CS, Shanghai Jiao Tong University
